@@ -6,8 +6,8 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ push-notification@0.1.8 </tspan>
 <tspan x="10" y="90">  ├─┬ apn@1.7.8 </tspan>
-<tspan x="10" y="106">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="122">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="106">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="122">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="138">  │ ├── node-forge@0.6.49 </tspan>
 <tspan x="10" y="154">  │ └── q@1.5.0 </tspan>
 <tspan x="10" y="170">  └─┬ node-gcm@0.11.1 </tspan>
