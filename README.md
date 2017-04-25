@@ -1,6 +1,6 @@
 # npmtest-push-notification
 
-#### test coverage for  [push-notification (v0.1.8)](https://github.com/idw111/push-notification#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-push-notification.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-push-notification) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-push-notification.svg)](https://travis-ci.org/npmtest/node-npmtest-push-notification)
+#### basic test coverage for  [push-notification (v0.1.8)](https://github.com/idw111/push-notification#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-push-notification.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-push-notification) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-push-notification.svg)](https://travis-ci.org/npmtest/node-npmtest-push-notification)
 
 #### push notification for apple push notification (APN) and google cloud messaging (GCM)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-push-notification/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-push-notification/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-push-notification/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-push-notification/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-push-notification/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-push-notification/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-push-notification/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-push-notification/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-push-notification/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-push-notification/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-push-notification/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-push-notification/build/coverage.html/index.html)
 
@@ -93,7 +93,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "0.1.8"
+    "version": "0.1.8",
+    "bin": {}
 }
 ```
 
